@@ -1,6 +1,6 @@
 # Astyanax-Inspired C++ Game
 
-Welcome to my simple C++ game project inspired by the classic game **Astyanax**! This project was developed during my second semester of school as part of a programming assignment. It was a great opportunity to practice and improve my C++ skills, especially in encapsulation and basic game development concepts. While the game is not a perfect replica of Astyanax, it incorporates many of its core mechanics with some simplifications and changes to make it easier to implement and play.
+Welcome to my simple C++ game project inspired by the classic game [**Astyanax**](https://en.wikipedia.org/wiki/The_Astyanax)! This project was developed during my second semester of school as part of a programming assignment. It was a great opportunity to practice and improve my C++ skills, especially in encapsulation and basic game development concepts. While the game is not a perfect replica of Astyanax, it incorporates many of its core mechanics with some simplifications and changes to make it easier to implement and play.
 
 ---
 
@@ -80,6 +80,7 @@ You can find the latest build of the game in the [Releases](https://github.com/J
 - [**Original Astyanax Audio**](https://downloads.khinsider.com/game-soundtracks/album/astyanax-nes): Used to bring the game to life.
 - [**Koen Samyn**](https://www.linkedin.com/in/koen-samyn-1652235/): Provided the simple C++ game engine and guidance. 
 - [**Me**](https://www.linkedin.com/in/ioana-raileanu-147725252/): Developed the game as part of a school project.
+- Original NES game can be played [here](https://www.retrogames.cz/play_1491-NES.php)
 
 ---
 
