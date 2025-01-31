@@ -24,7 +24,7 @@ This project is a 2D side-scrolling action game where the player controls a hero
 ## Features
 - **Single Level Gameplay**: The game consists of one level. Upon dying, the level resets. Upon winning, an image is displayed indicating the first round has been cleared, after which the level resets.
 - **Enemy System**: Enemies can drop random pick-ups when defeated. The boss is a stronger version of the Skeleton enemy with a different-colored skin.
-- **Power-Ups and Weapon Upgrades**: Players can collect power-ups and weapon upgrades dropped by pillars.
+- **Power-Ups and Weapon Upgrades**: Players can collect power-ups dropped by enemies and weapon upgrades dropped by pillars.
 - **SP Regeneration**: Special Points (SP) regenerate over time, allowing players to use power-ups more frequently.
 - **Simplified Memory Management**: Enemy instances are not freed and reallocated upon respawning. Instead, their positions and stats are reset, and they are reactivated after certain conditions are met.
 - **Attacking While Moving**: Players can attack while crouching or jumping.
@@ -71,14 +71,15 @@ This project is a 2D side-scrolling action game where the player controls a hero
 ---
 
 ## Releases
-You can find the latest build of the game in the [Releases](https://github.com/your-username/your-repo-name/releases) section. Make sure to download the appropriate version for your system.
+You can find the latest build of the game in the [Releases](https://github.com/Juddy2403/Astyanax/releases) section. 
 
 ---
 
 ## Credits
-- **Original Astyanax Sprites**: Used for the game's graphics.
-- **Teacher**: Provided the simple C++ game engine and guidance.
-- **Me**: Developed the game as part of a school project.
+- [**Original Astyanax Sprites**](https://www.spriters-resource.com/nes/astyanax/): Used for the game's graphics.
+- [**Original Astyanax Audio**](https://downloads.khinsider.com/game-soundtracks/album/astyanax-nes): Used to bring the game to life.
+- [**Koen Samyn**](https://www.linkedin.com/in/koen-samyn-1652235/): Provided the simple C++ game engine and guidance. 
+- [**Me**](https://www.linkedin.com/in/ioana-raileanu-147725252/): Developed the game as part of a school project.
 
 ---
 
