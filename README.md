@@ -1,6 +1,8 @@
 # Astyanax-Inspired C++ Game
 
-Welcome to my simple C++ game project inspired by the classic game [**Astyanax**](https://en.wikipedia.org/wiki/The_Astyanax)! This project was developed during my second semester of school as part of a programming assignment. It was a great opportunity to practice and improve my C++ skills, especially in encapsulation and basic game development concepts. While the game is not a perfect replica of Astyanax, it incorporates many of its core mechanics with some simplifications and changes to make it easier to implement and play.
+Welcome to my simple C++ game project replicating the classic game [**Astyanax**](https://en.wikipedia.org/wiki/The_Astyanax)! This project was developed during my second semester of school as part of a programming assignment. It was a great opportunity to practice and improve my C++ skills, especially in encapsulation and basic game development concepts. While the game is not a perfect replica of Astyanax, it incorporates many of its core mechanics with some simplifications and changes to make it easier to implement and play.
+
+![Astyanax](https://static.wikia.nocookie.net/nintendo/images/2/23/Astyanax.jpg/revision/latest?cb=20090721185837&path-prefix=en)
 
 ---
 
@@ -13,6 +15,7 @@ Welcome to my simple C++ game project inspired by the classic game [**Astyanax**
 6. [How to Play](#how-to-play)
 7. [Releases](#releases)
 8. [Credits](#credits)
+9. [Conclusion](#conclusion)
 
 ---
 
@@ -68,6 +71,8 @@ This project is a 2D side-scrolling action game where the player controls a hero
 3. Use the controls listed above to play the game.
 4. Defeat enemies, collect power-ups, and clear the level to win!
 
+More on the core mechanics of the game can be found on the [official manual](https://www.retrogames.cz/manualy/NES/Astyanax_-_NES_-_Manual.pdf)
+
 ---
 
 ## Releases
@@ -83,5 +88,8 @@ You can find the latest build of the game in the [Releases](https://github.com/J
 - Original NES game can be played [here](https://www.retrogames.cz/play_1491-NES.php)
 
 ---
+
+## Conclusion
+This project was a lot of fun to work on and figure out over the course of the semester. Looking back on it 3 years later, having acquired more knowledge and experience on the matter of making games, there are definitely a lot of things to improve on. It's not the best code I wrote, but it served it's purpose in my learning journey. That being said, I will not be working any more than I already have on this project. 
 
 Thank you for checking out my project! Feel free to explore the code, play the game, and provide feedback. This was a great learning experience, and I hope to continue improving my skills in game development and programming. Enjoy! 🎮
