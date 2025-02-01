@@ -34,16 +34,20 @@ This project is a 2D side-scrolling action game where the player controls a hero
 
 ---
 
-## Controls
-- **Left Arrow**: Move left
-- **Right Arrow**: Move right
-- **Up Arrow**: Jump
-- **Down Arrow**: Crouch
-- **Z Key**: Normal attack
-- **X Key**: Use power-up
-- **Left Shift Key**: Switch between power-ups
-- **Esc Key**: Pause the game
+## 🎮 Controls
 
+Here are the controls for the game:
+
+| **Key**               | **Action**           |
+|-----------------------|----------------------|
+| ⬅️ **Left Arrow**      | Move left            |
+| ➡️ **Right Arrow**     | Move right           |
+| ⬆️ **Up Arrow**        | Jump                 |
+| ⬇️ **Down Arrow**      | Crouch               |
+| 🅩 **Z Key**           | Normal attack        |
+| 🅧 **X Key**           | Use power-up         |
+| ⇧ **Left Shift Key**  | Switch between power-ups |
+| ⎋ **Esc Key**         | Pause the game       |
 ---
 
 ## Differences from the Original Game
